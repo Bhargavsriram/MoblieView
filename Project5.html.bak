@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Project5</title>
+  <link rel="icon" href="C:\Users\Admin\Desktop\Html\Html codes/logo1.jpg"/>
+  <style>
+  	img{
+	width:100px;
+	height:100px;
+	box-shadow:2px 2px 10px #cc99ff;
+	}
+	#main{
+	display:grid;
+	grid-template-columns:auto auto auto;
+	row-gap:30px;
+	column-gap:50px;
+	box-shadow:2px 2px 20px #33ffff;
+	width:40%;
+	margin:auto;
+	justify-content:space-evenly;
+	}
+	a{
+	color:#ff0080;
+	text-decoration:none;
+	font-size:20px;
+	}
+	span{
+	color:red;
+	font-size:18px;
+	}
+  </style>
+ </head>
+ <body>
+ <h1 style="background:linear-gradient(to left,#ff00ff,#6633ff);color:#ffff00;"align="center">MobileView</h1><br>
+  <div id="main">
+	<div><br>
+  	<img src="C:\Users\Admin\Desktop\Html\Mobileview\ajio.png"/><br>
+	<a href="https://www.ajio.com/?utm_source=Admitad&utm_medium=Affiliate&utm_campaign=237b172a05bf54d34566389dda71ffd9">Ajio</a>
+	</div>
+	<div>
+	<img src="C:\Users\Admin\Desktop\Html\Mobileview\myntra.webp"/><br>
+	<a href="https://www.myntra.com/">Myntra</a>
+    </div>
+	<div>
+	<img src="C:\Users\Admin\Desktop\Html\Mobileview\facebook.jfif"/><br>
+	<a href="https://www.facebook.com/">FaceBook</a>
+	</div>
+	<div>
+	<img src="C:\Users\Admin\Desktop\Html\Mobileview\flipcart.png"/><br>
+	<a href="https://www.flipkart.com/">Flipcart</a>
+	</div>
+	<div>
+	<img src="C:\Users\Admin\Desktop\Html\Mobileview\instagram.jfif"/><br>
+	<a href="https://www.instagram.com/">InstaGram</a>
+	</div>
+	<div>
+	<img src="C:\Users\Admin\Desktop\Html\Mobileview\telegram.jpg"/><br>
+	<a href="https://web.telegram.org/">Telegram</a>
+	</div>
+	<div>
+	<img src="C:\Users\Admin\Desktop\Html\Mobileview\twitter.svg"/><br>
+	<a href="https://twitter.com/">Twitter</a>
+	</div>
+	<div>
+	<img src="C:\Users\Admin\Desktop\Html\Mobileview\whatsapp-icon-concept_23-2147897840.webp"/><br>
+	<a href="https://www.whatsapp.com/">WhatsApp</a>
+	</div>
+	<div>
+	<img src="C:\Users\Admin\Desktop\Html\Mobileview\Amazon.png"/><br>
+	<a href="https://www.amazon.in/s/?ie=UTF8&keywords=amazin+in&index=aps&tag=googinhydr1-21&ref=pd_sl_slgzi2343_b&adgrpid=115215853359&hvpone=&hvptwo=&hvadid=590245029515&hvpos=&hvnetw=g&hvrand=15286619173356720526&hvqmt=b&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9062121&hvtargid=kwd-311187673435&hydadcr=10065_2128766&gclid=Cj0KCQiAkMGcBhCSARIsAIW6d0CyAM59hoyAqtSNlHh0TCQS3wD0MsYnanzmmgg_Q3XBZJpbvof2LyMaAptcEALw_wcB">Amazon</a>
+	</div>
+  </div>
+ </body>
+</html>
+
+
+
+<!--
+
+https://www.facebook.com/
+https://www.whatsapp.com/
+https://twitter.com/
+https://www.instagram.com/
+https://web.telegram.org/
+https://www.flipkart.com/
+https://www.amazon.in/s/?ie=UTF8&keywords=amazin+in&index=aps&tag=googinhydr1-21&ref=pd_sl_slgzi2343_b&adgrpid=115215853359&hvpone=&hvptwo=&hvadid=590245029515&hvpos=&hvnetw=g&hvrand=15286619173356720526&hvqmt=b&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9062121&hvtargid=kwd-311187673435&hydadcr=10065_2128766&gclid=Cj0KCQiAkMGcBhCSARIsAIW6d0CyAM59hoyAqtSNlHh0TCQS3wD0MsYnanzmmgg_Q3XBZJpbvof2LyMaAptcEALw_wcB
+https://www.ajio.com/?utm_source=Admitad&utm_medium=Affiliate&utm_campaign=237b172a05bf54d34566389dda71ffd9
+https://www.myntra.com/
